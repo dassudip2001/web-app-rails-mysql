@@ -5,9 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-- Ruby version
+- Ruby version : 3.0.0
 
-- System dependencies
+- System dependencies :
+
+  - rails 7.0.3
+  - mysql2
 
 - Configuration
 

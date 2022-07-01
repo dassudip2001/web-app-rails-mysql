@@ -12,18 +12,6 @@ Things you may want to cover:
   - rails 7.0.3
   - mysql2
 
-- Configuration
-
-- Database creation
-
-- Database initialization
-
-- How to run the test suite
-
-- Services (job queues, cache servers, search engines, etc.)
-
-- Deployment instructions
-
 - Database configuration
   - database.yml and set up username and password
   - rails db:create

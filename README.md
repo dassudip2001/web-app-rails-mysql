@@ -19,6 +19,8 @@ Things you may want to cover:
   - How to create controller
 
 * rails g controller controller name
+  
+  
   Rails Database
   The last step is to allow the Rails application to access the database. If you run Docker Compose right now, both containers will start but Rails will have a database connection error.
 
